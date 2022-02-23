@@ -16,6 +16,7 @@ p = plot(θ, y,
 	legend = false
 )
 
+# display plot
 display(p)
 
 F = [1000, 3200, -4000, 4300, -2750, 6630]N
